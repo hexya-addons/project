@@ -1,0 +1,6 @@
+ID,date_start,name,color,user_id,alias_model,type_ids,privacy_visibility,sequence,label_tasks,partner_id
+project_project_1,,Website for Sales &amp; WMS,3,base.user_demo,project.task,,,,,
+project_project_2,,Research &amp; Development,,base.user_demo,project.task,,followers,,,
+project_project_3,,E-Learning Integration,,base.user_demo,project.task,,employees,10,Trainings,
+project_project_4,,Website Design Templates,,base.user_root,project.task,,employees,20,Designs,
+project_project_5,,Data Import/Export Plugin,,,project.task,,followers,2,Databases,base.res_partner_4

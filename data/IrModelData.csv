@@ -1,0 +1,2 @@
+ID,res_id,model,module,name,noupdate
+duplicate_field_xmlid,,ir.model.fields,project,project_time_mode_id_duplicate_xmlid,True

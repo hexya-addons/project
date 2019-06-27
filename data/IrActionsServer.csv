@@ -1,0 +1,4 @@
+ID,name,model_id,code
+activate_sample_project,Activate Sample Project,project.model_project_project,
+action = model.activate_sample_project()
+            

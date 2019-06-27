@@ -1,0 +1,9 @@
+ID,model,res_id,body,message_type,author_id,parent_id
+message_task_1,project.task,project_task_22,Hello Demo,
+There is a change in customer requirement.
+Can you check the document from customer again.
+Thanks,,comment,base.partner_root,
+message_task_2,project.task,project_task_22,Ok, I have checked the mail,
+I will update the document and let you know.,comment,base.partner_demo,message_task_1
+message_task_3,project.task,project_task_22,Fine!
+Send it ASAP, its urgent.,comment,base.partner_root,message_task_2

@@ -1,0 +1,5 @@
+ID,sequence,name,legend_blocked,legend_priority,mail_template_id,legend_done,fold
+project_stage_0,1,To Do,Not validated,Use the priority for tasks related to gold customers,project.mail_template_data_project_task,,
+project_stage_1,10,In Progress,Need functional or technical help,,,Buzz or set as done,
+project_stage_2,20,Done,,,,,
+project_stage_3,30,Cancelled,,,,Ready to reopen,

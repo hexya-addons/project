@@ -1,0 +1,27 @@
+ID,planned_hours,remaining_hours,user_id,priority,project_id,name,stage_id,color,date_deadline,description,tag_ids,kanban_state,date_start,sequence
+project_task_1,,,base.user_demo,0,project.project_project_1,Prepare Requirements Document,project_stage_0,3,,,,,,
+project_task_2,,,base.user_demo,0,project.project_project_1,Make SRS,project_stage_1,,,,,,,
+project_task_3,,,base.user_root,0,project.project_project_1,Budget Planning,project_stage_2,4,,,,,,
+project_task_4,,,base.user_demo,0,project.project_project_1,Develop module for Sale Management,project_stage_1,5,,Use the account_budget module,,,,
+project_task_5,,,base.user_root,0,project.project_project_1,Develop module for Warehouse,project_stage_1,,,,,done,,
+project_task_6,,,base.user_root,1,project.project_project_1,Integrate Modules,project_stage_1,,,,,,,
+project_task_7,,,base.user_root,1,project.project_project_1,Internal testing + Software Install,project_stage_1,,,,,,,
+project_task_8,,,base.user_demo,0,project.project_project_2,New portal system,project_stage_2,,,,,,,
+project_task_9,,,base.user_demo,1,project.project_project_2,Document history management,project_stage_0,,,,,,,
+project_task_10,,,base.user_demo,1,project.project_project_2,Social network integration,project_stage_1,,,,,blocked,,
+project_task_11,,,base.user_root,1,project.project_project_2,User interface improvements,project_stage_1,,,,,,,
+project_task_12,,,base.user_root,1,project.project_project_2,Improve+clean code and functionality,project_stage_0,6,,,,,,
+project_task_13,,,base.user_demo,1,project.project_project_3,Design Use Cases,project_stage_1,,,,,,,
+project_task_14,,,base.user_root,1,project.project_project_3,Dataflow Design,project_stage_1,,,,,,,
+project_task_15,,,base.user_root,1,project.project_project_3,User Interface design,project_stage_2,,,,,,2011-02-06,
+project_task_16,,,base.user_demo,1,project.project_project_3,Set target for all deparments,project_stage_3,,,,,,,
+project_task_17,,,base.user_demo,1,project.project_project_3,Integration of core components,project_stage_1,,,,,,,
+project_task_18,,,base.user_root,1,project.project_project_3,Deploy and review on live system,project_stage_2,,,,,,,
+project_task_19,24.0,24.0,,,project.project_project_4,Basic outline,project_stage_3,,,,,,,
+project_task_20,42.0,42.0,,,project.project_project_4,Create new components,project_stage_0,,,,,,,
+project_task_21,14.0,14.0,,,project.project_project_4,Useablity review,project_stage_1,,,,,,,
+project_task_22,12.0,12.0,,0,project.project_project_5,Customer analysis + Architecture,project_stage_1,7,,,,,,
+project_task_23,15.0,15.0,,,project.project_project_5,Data Export flow,project_stage_1,8,,,,,,15
+project_task_24,8.0,8.0,,1,project.project_project_5,Modifications asked by the customer,project_stage_2,,,,,,,17
+project_task_25,20.0,20.0,,,project.project_project_5,Data import + Doc,project_stage_0,,,,,,,20
+project_task_26,35.0,35.0,,,project.project_project_5,Unit Testing,project_stage_0,,,,,,,20

@@ -1,0 +1,6 @@
+ID,name,subject,model_id,use_default_to,body_html,auto_delete
+mail_template_data_project_task,Task: Reception Acknowledgment,Reception of ${object.name},project.model_project_task,,<![CDATA[
+<p>Dear ${object.partner_id.name or 'customer'},</p>
+<p>Thank you for your enquiry.<br /></p>
+<p>If you have any questions, please let us know.</p>
+<p>Best regards,</p>]]>,

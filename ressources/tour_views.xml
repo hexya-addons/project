@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hexya>
+    <data>
+	<menu id="menu_main_pm" type="ir.ui.menu" >
+	<menu id="menu_projects" type="ir.ui.menu" >
+	<menu id="base.menu_administration" type="ir.ui.menu" >
+    </data>
+</hexya>

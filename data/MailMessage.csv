@@ -1,0 +1,5 @@
+ID,subject,model,author_id,res_id,body,message_type,subtype_id,attachment_ids
+msg_task_4,Converse with your customers and colleagues,project.task,base.partner_root,project_task_data_4,Use this chatter to send emails. Add new people in the followers list, to make them aware about the main changes about this task!,email,mail.mt_comment,
+msg_task_data_8,How to open the implementation guide ?,project.task,base.partner_root,project_task_data_8,<![CDATA[Click on this icon in the upper right corner to open the planner<br/>
+            Best regards,<br/>Me.</p>]]>,comment,,
+msg_task_data_14,How to open the planner?,project.task,base.partner_root,project_task_data_14,<![CDATA[Look at this beautiful bird !]]>,comment,,
